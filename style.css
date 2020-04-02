@@ -1,0 +1,39 @@
+#hero
+{
+  height: 600px;
+  background-image:url("images/photo2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+}
+
+#btn-position
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.surf-bsln
+{
+  text-align: center;
+  font-size: 3em;
+  font-weight: bold;
+  margin-bottom: 40px;
+  margin-top: 60px;
+}
+
+#surf-icons
+{
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+h2
+{
+  text-align: center;
+}
